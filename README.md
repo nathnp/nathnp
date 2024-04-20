@@ -1,4 +1,6 @@
-### Hi there 👋
+I'm just a dude with a website, go check it out -> [nthp.me](https://nthp.me)
+
+Or check out my other web projects [FartMail.me](https://fartmail.me) and [SecureFart.com](https://securefart.com)
 
 <!--
 **nathnp/nathnp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
