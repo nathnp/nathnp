@@ -21,3 +21,13 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_isocalendar: yes
+      - name: Latest blog posts
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.rss.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_rss: yes
+          plugin_rss_source: https://nthp.me/posts/feed.xml
+          plugin_rss_limit: 4
+
