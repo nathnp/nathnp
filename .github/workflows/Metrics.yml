@@ -14,15 +14,6 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Half-year calendar
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.isocalendar.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
-          
       - name: Latest blog posts
         uses: lowlighter/metrics@latest
         with:
