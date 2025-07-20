@@ -21,6 +21,6 @@ jobs:
           token: NOT_NEEDED
           base: ""
           plugin_rss: yes
-          plugin_rss_source: https://nthp.me/posts/feed.xml
+          plugin_rss_source: https://nthp.me/blog/feed.xml
           plugin_rss_limit: 4
 
